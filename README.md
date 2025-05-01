@@ -47,13 +47,17 @@ lib/
     └── product.dart
 ___________________________________________________________________________________________________________________
 🧰 Getting Started
-1. Clone the repository
+1. Clone the repository:
+   
 git clone https://github.com/your-username/cafe-product-manager.git
+
 cd cafe-product-manager
 
-2. Install dependencies
+3. Install dependencies:
+   
 flutter pub get
 
-3. Run the app
+4. Run the app:
+   
 flutter run
     
