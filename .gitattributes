@@ -1,0 +1,9 @@
+*.dart linguist-language=Dart
+*.kt linguist-vendored
+*.java linguist-vendored
+*.xml linguist-vendored
+*.js linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.gradle linguist-vendored
+*.plist linguist-vendored
